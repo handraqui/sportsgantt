@@ -32,8 +32,8 @@ Create a customizable yearly sports calendar showing:
 
 ## Roadmap
 
-[x] Define concept
-[ ] Create data model
-[ ] Generate first Gantt chart
-[ ] Add calendar export
-[ ] Add customizable views
+- [x] Define concept
+- [ ] Create data model
+- [ ] Generate first Gantt chart
+- [ ] Add calendar export
+- [ ] Add customizable views
