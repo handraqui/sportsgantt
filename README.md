@@ -4,8 +4,11 @@
 Initial example of entry for sport discipline:
 
 competition: Formula 1
+
 season_start: 2027-03-14
+
 season_end: 2027-12-05
+
 sport: motorsport
 
 ## Goal!!!
